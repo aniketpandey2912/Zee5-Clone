@@ -9,7 +9,7 @@ used language:-
 - Chakara UI
 
 
-## Screen Short
+## Screen Shot
 
 ![Screenshot (106)](https://scontent.fccu31-1.fna.fbcdn.net/v/t39.30808-6/320739085_679178100471108_1484124599523456325_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=T6PheFtOHoMAX85Ijm1&_nc_oc=AQmnJdVZxpNwQJiJ9qawMlttoKYrhSrM26OoMHpRpslVm8gD5uQYD2vqWU0AJxwkEWs&tn=ddrwCrqoNHR1QEX0&_nc_ht=scontent.fccu31-1.fna&oh=00_AfAJGusNr5mz8g8fn-ZKOb-D0D9TevsGCm40Sf_atgAlvA&oe=63A47315)
 - Home Nvbar
